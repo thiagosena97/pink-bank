@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "117050985623",
+    "firebase_url": "https://pink-bank.firebaseio.com",
+    "project_id": "pink-bank",
+    "storage_bucket": "pink-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117050985623:android:5e5e6b7fbd7eafc77dedd2",
+        "android_client_info": {
+          "package_name": "com.example.projeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117050985623-n7st5cvfkjgaougc445lgg874ip5bpto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projeto",
+            "certificate_hash": "79065b40c6005d78c75cebba9164423e99cb7082"
+          }
+        },
+        {
+          "client_id": "117050985623-ofeb9v2vsmua9r89h52anpo8r5on28du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEkkAUWYUvMXMh8vinYSI0MKWylEgCt1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117050985623-ofeb9v2vsmua9r89h52anpo8r5on28du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
